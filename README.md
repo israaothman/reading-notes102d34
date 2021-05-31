@@ -1,14 +1,15 @@
 # reading-notes102d34 
 
 ## My Fav Movies : 
- 1. Harry Potter 
+ 1. Harry and Ron  
  2. Jumanji
 
-### My Fav Food : 
+### My Fv Food : 
  * Shawerma
  * Pizza 
  * **Mansaf** 
-
+ 
+### new thing 
 
 ![Pizza-Image](https://static.toiimg.com/thumb/53110049.cms?width=1200&height=900)
 
